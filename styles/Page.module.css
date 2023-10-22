@@ -1,0 +1,13 @@
+.navegacao{
+    display: flex;
+    margin-right: 50px;
+}
+
+.navegacao a{
+    margin: 25px;
+    text-decoration: none;
+    color: #8c0f28;
+    border: 1px solid #8c0f28;
+    border-radius: 5px;
+    padding: 3px;
+}

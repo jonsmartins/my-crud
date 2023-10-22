@@ -1,0 +1,46 @@
+.telaUsuario {
+    padding: 25px;
+    color: #42494e;
+}
+
+.telaUsuario a {
+    margin: 25px;
+    text-decoration: none;
+    color: #8c0f28;
+    border: 1px solid #8c0f28;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.telaUsuario .listaUsuarios div{
+    margin: 25px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.telaUsuario .listaUsuarios span{
+    margin: 5px;
+    border: 1px solid #8c0f28;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.telaUsuario .listaUsuarios .exclbtn{
+    background-color: #a9a9a9;
+    color: #8c0f28;
+    margin: 5px;
+    border: 1px solid #8c0f28;
+    border-radius: 5px;
+    padding: 3px;
+    cursor: pointer;
+}
+
+.telaUsuario .listaUsuarios .editbtn{
+    background-color: #a9a9a9;
+    color: #0f8c3d;
+    margin: 5px;
+    border: 1px solid #0f8c3d;
+    border-radius: 5px;
+    padding: 3px;
+    cursor: pointer;
+}
